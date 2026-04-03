@@ -14,23 +14,6 @@ Written in 1984, well before sports compilations became a mainstream genre, this
 
 ---
 
-## Screenshots
-
-<table>
-	<tr>
-		<td><img src="screenshots/screenshot01.jpg" alt="Screenshot 1" width="240"></td>
-		<td><img src="screenshots/screenshot02.jpg" alt="Screenshot 2" width="240"></td>
-		<td><img src="screenshots/screenshot03.jpg" alt="Screenshot 3" width="240"></td>
-	</tr>
-	<tr>
-		<td><img src="screenshots/screenshot04.jpg" alt="Screenshot 4" width="240"></td>
-		<td><img src="screenshots/screenshot05.jpg" alt="Screenshot 5" width="240"></td>
-		<td><img src="screenshots/screenshot06.jpg" alt="Screenshot 6" width="240"></td>
-	</tr>
-</table>
-
----
-
 ## Files
 
 | File | Description |

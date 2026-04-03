@@ -66,7 +66,7 @@ The on-screen power bar shows your current speed. Let it drop and your athlete s
 
 ### On Real Hardware
 
-Transfer `AtariOlympics.bas` to a disk image (`.atr`) using a tool such as **[dir2atr](http://www.horus.com/~hias/atari/)**, copy to a real disk or SIO2PC/SIO2SD device, then `LOAD "D:AO.BAS"` and `RUN`.
+Transfer `ao.bas` to a disk image (`.atr`) using a tool such as **[dir2atr](http://www.horus.com/~hias/atari/)**, copy to a real disk or SIO2PC/SIO2SD device, then `LOAD "D:AO.BAS"` and `RUN`.
 
 ---
 

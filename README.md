@@ -64,6 +64,7 @@ Transfer `AtariOlympics.bas` to a disk image (`.atr`) using a tool such as **[di
 
 | File | Description |
 |------|-------------|
+| `ao.bas` | Binary ATARI BASIC file — load directly into any Atari 8-bit or emulator short filename |
 | `AtariOlympics.bas` | Binary ATARI BASIC file — load directly into any Atari 8-bit or emulator |
 | `AtariOlympics.txt` | ASCII plain-text BASIC listing — human-readable source |
 | `AtariOlympics.lst` | Raw tokenised listing export |

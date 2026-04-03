@@ -56,7 +56,7 @@ The on-screen power bar shows your current speed. Let it drop and your athlete s
 
 ### On Real Hardware
 
-Transfer `AtariOlympics.bas` to a disk image (`.atr`) using a tool such as **[dir2atr](http://www.horus.com/~hias/atari/)**, copy to a real disk or SIO2PC/SIO2SD device, then `LOAD "D:ATARIOL.BAS"` and `RUN`.
+Transfer `AtariOlympics.bas` to a disk image (`.atr`) using a tool such as **[dir2atr](http://www.horus.com/~hias/atari/)**, copy to a real disk or SIO2PC/SIO2SD device, then `LOAD "D:AO.BAS"` and `RUN`.
 
 ---
 
@@ -64,10 +64,9 @@ Transfer `AtariOlympics.bas` to a disk image (`.atr`) using a tool such as **[di
 
 | File | Description |
 |------|-------------|
-| `ao.bas` | Binary ATARI BASIC file — load directly into any Atari 8-bit or emulator short filename |
-| `AtariOlympics.bas` | Binary ATARI BASIC file — load directly into any Atari 8-bit or emulator |
-| `AtariOlympics.txt` | ASCII plain-text BASIC listing — human-readable source |
-| `AtariOlympics.lst` | Raw tokenised listing export |
+| `ao.bas` | Binary ATARI BASIC file — load directly into any Atari 8-bit or emulator |
+| `ao.txt` | ASCII plain-text BASIC listing — human-readable source |
+| `ao.lst` | Raw tokenised listing export |
 
 ---
 

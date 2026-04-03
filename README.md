@@ -48,11 +48,11 @@ The on-screen power bar shows your current speed. Let it drop and your athlete s
 
 ### Using an Emulator (recommended)
 
-1. Download **[Altirra](https://www.virtualdub.org/altirra.html)** (Windows) or **[Atari800](https://atari800.github.io/)** (cross-platform).
+1. **[Atari800](https://atari800.github.io/)** (cross-platform).
 2. Configure the emulator with Atari XL/XE OS ROM images.
-3. Load `AtariOlympics.bas`:
-   - In Altirra: **File → Boot Image** and select the `.bas` file, or drop it onto the window.
-   - In Atari800: start with `-basic` flag and `LOAD "D:ATARIOL.BAS"` from the BASIC prompt, then `RUN`.
+3. Configure emulator to use Harddisk
+4. in BASIC type LOAD "H1:AO.BAS"
+
 
 ### On Real Hardware
 

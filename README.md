@@ -14,6 +14,16 @@ Written in 1984, well before sports compilations became a mainstream genre, this
 
 ---
 
+## Files
+
+| File | Description |
+|------|-------------|
+| `ao.bas` | Binary ATARI BASIC file — load directly into any Atari 8-bit or emulator |
+| `ao.txt` | ASCII plain-text BASIC listing — human-readable source |
+| `ao.lst` | Raw tokenised listing export |
+
+---
+
 ## Events
 
 | # | Event | Scoring |
@@ -57,16 +67,6 @@ The on-screen power bar shows your current speed. Let it drop and your athlete s
 ### On Real Hardware
 
 Transfer `AtariOlympics.bas` to a disk image (`.atr`) using a tool such as **[dir2atr](http://www.horus.com/~hias/atari/)**, copy to a real disk or SIO2PC/SIO2SD device, then `LOAD "D:AO.BAS"` and `RUN`.
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `ao.bas` | Binary ATARI BASIC file — load directly into any Atari 8-bit or emulator |
-| `ao.txt` | ASCII plain-text BASIC listing — human-readable source |
-| `ao.lst` | Raw tokenised listing export |
 
 ---
 

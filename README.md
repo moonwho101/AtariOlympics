@@ -14,6 +14,24 @@ Written in 1984, well before sports compilations became a mainstream genre, this
 
 ---
 
+## Screenshot Gallery
+
+<p align="center">
+	<img src="screenshots/screenshot01.jpg" alt="Atari Olympics screenshot 1" width="32%" />
+	<img src="screenshots/screenshot02.jpg" alt="Atari Olympics screenshot 2" width="32%" />
+	<img src="screenshots/screenshot03.jpg" alt="Atari Olympics screenshot 3" width="32%" />
+</p>
+<p align="center">
+	<img src="screenshots/screenshot04.jpg" alt="Atari Olympics screenshot 4" width="32%" />
+	<img src="screenshots/screenshot05.jpg" alt="Atari Olympics screenshot 5" width="32%" />
+	<img src="screenshots/screenshot06.jpg" alt="Atari Olympics screenshot 6" width="32%" />
+</p>
+<p align="center">
+	<img src="screenshots/screenshot07.jpg" alt="Atari Olympics screenshot 7" width="48%" />
+</p>
+
+---
+
 ## Files
 
 | File | Description |

@@ -24,7 +24,7 @@ Written in 1984, well before sports compilations became a mainstream genre, this
 <p align="center">
 	<img src="screenshots/screenshot05.jpg" alt="Atari Olympics screenshot 5" width="32%" />
 	<img src="screenshots/screenshot06.jpg" alt="Atari Olympics screenshot 6" width="32%" />
-    <img src="screenshots/screenshot07.jpg" alt="Atari Olympics screenshot 7" width="48%" />
+    <img src="screenshots/screenshot07.jpg" alt="Atari Olympics screenshot 7" width="32%" />
 </p>
 
 ---

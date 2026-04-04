@@ -72,7 +72,7 @@ Transfer `ao.bas` to a disk image (`.atr`) using a tool such as **[dir2atr](http
 
 ## Technical Notes
 
-- **Language:** ATARI BASIC (built-in ROM BASIC on all Atari 8-bit computers)
+- **Language:** ATARI BASIC (built-in ROM BASIC on some Atari 8-bit computers)
 - **Graphics mode:** GRAPHICS 5 (80×48, 4 colours)
 - **Sprites:** Player-Missile Graphics — three hardware players animate the athlete and thrown implement
 - **Sound:** Four-channel POKEY sound chip used for running cadence and throw effects
